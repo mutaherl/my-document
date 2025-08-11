@@ -27,5 +27,9 @@ two
 >
 > hey
 >  
+**Warning:** *Critical update required*  
+~~Old Price:~~ **$100**  
+==Limited Offer==  
 
+<span style="color:blue">Blue Text</span>
 
